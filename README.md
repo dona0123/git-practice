@@ -1,2 +1,5 @@
-[학습] Git & GitHub
-강의명: 제대로 파는 Git & GitHub - by 얄코
+## git-practice 
+✔ 스터디 과목 : git, github 
+
+✔ 스터디 강좌 : 제대로 파는 Git & GitHub - by 얄코
+
